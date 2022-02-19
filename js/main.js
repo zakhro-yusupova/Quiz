@@ -1,13 +1,13 @@
 var name = prompt("Ismingizni kiriting");
-var firstQuestion = prompt("Bootstrap ixtirochisi kim?"); // Mark Otto
-var secondQuestion = prompt("Bootstrap 5da 1rem nechchi pxga teng?"); // .container
+var firstQuestion = prompt("Bootstrapni ixtiro qilgan shaxs va tashkilot qaysi?"); // Mark Otto, twitter
+var secondQuestion = prompt("me-4 qayerdan va nechi px joyni oladi?"); // .o'ng tomondan. 1.5rem (24px)
 var thirdQuestion = prompt("Ochiq-ko'k text yaratish uchun qaysi kontekstli class ishlatiladi?"); // .text-info
-var fourthQuestion = prompt("Bootstrapda row ichida nechtagacha ustun joylab bo'ladi?"); // 12 columns
-var fifthQuestion = prompt("Bootstrapni veb-saytga qo'shishning ikkita asosiy usuli qanday??"); // CDN yoli lokal
-var sixQuestion = prompt("Bootstrapda 3 ta teng ustun yaratish uchun qaysi classdan foydalanish kerak?"); // col-4
-var seventhQuestion = prompt("buttonga qaysi class qo'shish orqali buttonni bosib bo'lmaydigan qilsa bo'ladi? "); // .disabled
-var eightQuestion = prompt("lg classi qaysi qurilmalar uchun ishlatiladi"); // .
-var ninthQuestion = prompt("bootstrapda sahifa yaratish uchun qaysi classdan foydalanish kerak?"); // .pagination
+var fourthQuestion = prompt("Bootstrapda row ichida nechtagacha ustun joylash mumkin?"); // 12 columns
+var fifthQuestion = prompt("Bootstrapni veb-saytga qo'shishning ikkita asosiy usuli qanday??"); // CDN yoki lokal
+var sixQuestion = prompt("Bootstrapda 3 ta teng ustun yaratish uchun qaysi classdan foydalanish kerak?"); // col-3
+var seventhQuestion = prompt("buttonga qaysi class qo'shish orqali bosib bo'lmaydigan qilsa bo'ladi? "); // .disabled
+var eightQuestion = prompt("lg classi qaysi qurilmalar uchun ishlatiladi"); // laptops, desktop
+var ninthQuestion = prompt("bootstrapda nima orqali bir nechta sahifa ulanadi  ?"); // .pagination
 var tenthQuestion = prompt("bootstrap bepul kutubxonami? (true-false)"); // .true
 
 
